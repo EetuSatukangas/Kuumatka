@@ -33,11 +33,11 @@ while (R<=RMaaKuu-kuuSade-maaSade) :
 
 if (paasiko==True) :
     print('Matkaan meni aikaa ',aika,'sekuntia')
-
-tiedostonNimi = 'kuumatka-aikoja.txt'
-with open(tiedostonNimi, 'a') as siirtaja:
-    siirtaja.write('matka-aika ja aika-askel: ')
-    siirtaja.write(str(aika))
-    siirtaja.write(' , ')
-    siirtaja.write(str(deltaT))
-    siirtaja.write('\n')
+    
+    tiedostonNimi = 'kuumatka-aikoja.txt'
+    with open(tiedostonNimi, 'a') as siirtaja:
+        siirtaja.write('matka-aika ja aika-askel: ')
+        siirtaja.write(str(aika))
+        siirtaja.write(' , ')
+        siirtaja.write(str(deltaT))
+        siirtaja.write('\n')
