@@ -1,0 +1,7 @@
+matka-aika ja aika-askel: 68705.09999951128 , 0.1
+matka-aika ja aika-askel: 68743.5 , 0.5
+matka-aika ja aika-askel: 68792 , 1
+matka-aika ja aika-askel: 69185 , 5
+matka-aika ja aika-askel: 69690 , 10
+matka-aika ja aika-askel: 70740 , 20
+matka-aika ja aika-askel: 82400 , 100

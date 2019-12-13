@@ -1,0 +1,7 @@
+nopeus ja aika-askel: 11076.8949508667 , 1
+nopeus ja aika-askel: 11074.286270141602 , 0.1
+nopeus ja aika-askel: 11103.500747680664 , 10
+nopeus ja aika-askel: 11134.090805053711 , 20
+nopeus ja aika-askel: 11075.444412231445 , 0.5
+nopeus ja aika-askel: 11088.605690002441 , 5
+nopeus ja aika-askel: 11409.63306427002 , 100
